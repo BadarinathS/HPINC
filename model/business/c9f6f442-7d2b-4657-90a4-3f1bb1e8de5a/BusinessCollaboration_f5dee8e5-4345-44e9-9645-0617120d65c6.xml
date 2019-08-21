@@ -1,0 +1,14 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="18 HP Nederland BV"
+    id="f5dee8e5-4345-44e9-9645-0617120d65c6">
+  <properties
+      key="Legal Entity"
+      value="US Co"/>
+  <properties
+      key="Region"
+      value="US Co"/>
+  <properties
+      key="Legal Entity Level"
+      value="L1"/>
+</archimate:BusinessCollaboration>

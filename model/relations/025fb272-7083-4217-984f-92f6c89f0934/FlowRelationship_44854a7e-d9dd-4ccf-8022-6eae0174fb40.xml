@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice (cXML and AS2)"
+    id="44854a7e-d9dd-4ccf-8022-6eae0174fb40">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f80d76e0-1255-4549-8ff6-bfa30bcab674.xml#f80d76e0-1255-4549-8ff6-bfa30bcab674"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ac4a3a7d-3293-4da7-94ed-d85900bedd49.xml#ac4a3a7d-3293-4da7-94ed-d85900bedd49"/>
+</archimate:FlowRelationship>

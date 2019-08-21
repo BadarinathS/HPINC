@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manual Document Load"
+    id="0a69ee5a-7ec9-45f0-8fd5-497f16264e62"
+    documentation="Manual - INvoices/ credit note/ Delivery /Upload / Read /Edit">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7015e381-0365-4e8a-afee-75de35f36150.xml#7015e381-0365-4e8a-afee-75de35f36150"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_29e35bd2-26b4-4a81-ae42-68eb453207d9.xml#29e35bd2-26b4-4a81-ae42-68eb453207d9"/>
+</archimate:FlowRelationship>

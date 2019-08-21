@@ -1,0 +1,14 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="03 HP Development Company LP"
+    id="69a0f510-5243-47fc-a02c-8979178effd2">
+  <properties
+      key="Legal Entity"
+      value="US Co"/>
+  <properties
+      key="Region"
+      value="US Co"/>
+  <properties
+      key="Legal Entity Level"
+      value="L1"/>
+</archimate:BusinessCollaboration>

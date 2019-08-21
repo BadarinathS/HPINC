@@ -1,0 +1,14 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02 Indigo Americas Inc"
+    id="8f02365b-534d-47e3-86c7-a02edac44520">
+  <properties
+      key="Legal Entity"
+      value="US Co"/>
+  <properties
+      key="Region"
+      value="US Co"/>
+  <properties
+      key="Legal Entity Level"
+      value="L1"/>
+</archimate:BusinessCollaboration>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COGS"
+    id="58aa5b7f-a4d1-47aa-81e8-de6d09df3d50">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ab95c7f2-0338-4fa0-b071-36dff8a40032.xml#ab95c7f2-0338-4fa0-b071-36dff8a40032"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_52897f3d-1d75-42d7-b567-37cf8f6a9434.xml#52897f3d-1d75-42d7-b567-37cf8f6a9434"/>
+</archimate:FlowRelationship>

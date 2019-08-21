@@ -1,0 +1,14 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="21 Libya Branch"
+    id="b1db7db1-e1d7-4ce5-88ed-d7194288ec25">
+  <properties
+      key="Legal Entity"
+      value="US Co"/>
+  <properties
+      key="Region"
+      value="US Co"/>
+  <properties
+      key="Legal Entity Level"
+      value="L1"/>
+</archimate:BusinessCollaboration>

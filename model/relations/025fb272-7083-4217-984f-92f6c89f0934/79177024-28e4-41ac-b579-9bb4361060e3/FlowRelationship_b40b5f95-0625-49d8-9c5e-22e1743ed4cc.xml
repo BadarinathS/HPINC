@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email, Xml &amp; PDF"
+    id="b40b5f95-0625-49d8-9c5e-22e1743ed4cc">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1d07fb5f-d360-4ab1-b773-7fb29e224690.xml#1d07fb5f-d360-4ab1-b773-7fb29e224690"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f0b8e46a-5cbc-4eaa-a41e-747aea6ef223.xml#f0b8e46a-5cbc-4eaa-a41e-747aea6ef223"/>
+</archimate:FlowRelationship>

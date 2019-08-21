@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAFT XML Files"
+    id="b618fe74-a225-41cc-8558-eed1aac1843c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0785198f-ad78-434a-b20e-c31f863ab035.xml#0785198f-ad78-434a-b20e-c31f863ab035"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7e3bac80-152b-410a-bbfb-f515a96ffabc.xml#7e3bac80-152b-410a-bbfb-f515a96ffabc"/>
+</archimate:FlowRelationship>

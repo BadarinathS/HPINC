@@ -1,0 +1,14 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="18 HP Canda Co"
+    id="1ee2ba05-e849-47b7-b51c-28c2fc4e0460">
+  <properties
+      key="Legal Entity"
+      value="US Co"/>
+  <properties
+      key="Region"
+      value="US Co"/>
+  <properties
+      key="Legal Entity Level"
+      value="L1"/>
+</archimate:BusinessCollaboration>

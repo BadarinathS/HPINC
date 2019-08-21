@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="update of status order cancellation workflow"
+    id="3262e991-f416-43aa-9b3d-02999a89d41e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a0aad2f6-22fb-4611-840c-c5dd747868fb.xml#a0aad2f6-22fb-4611-840c-c5dd747868fb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bda480fd-3886-46b8-afbd-ec03cd7a4610.xml#bda480fd-3886-46b8-afbd-ec03cd7a4610"/>
+</archimate:TriggeringRelationship>

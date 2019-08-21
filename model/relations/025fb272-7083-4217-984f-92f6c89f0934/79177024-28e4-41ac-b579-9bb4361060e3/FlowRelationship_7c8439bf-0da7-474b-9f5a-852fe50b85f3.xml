@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Number"
+    id="7c8439bf-0da7-474b-9f5a-852fe50b85f3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5d76676e-8cbc-45a7-a85d-41334e649e98.xml#5d76676e-8cbc-45a7-a85d-41334e649e98"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0785198f-ad78-434a-b20e-c31f863ab035.xml#0785198f-ad78-434a-b20e-c31f863ab035"/>
+</archimate:FlowRelationship>

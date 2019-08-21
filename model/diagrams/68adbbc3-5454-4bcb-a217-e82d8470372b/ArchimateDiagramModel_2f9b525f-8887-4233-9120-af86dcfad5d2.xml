@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Z1"
+    id="2f9b525f-8887-4233-9120-af86dcfad5d2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1e5081e6-b1f1-4b79-b853-298d5a7c21a9"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="286"
+        width="208"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_f12a9488-210e-4ca3-af93-e5ab2541a75b.xml#f12a9488-210e-4ca3-af93-e5ab2541a75b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f43ce4f5-a64e-4f6d-91a8-678ff42600f1"
+      textAlignment="1">
+    <bounds
+        x="300"
+        y="288"
+        width="217"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_d83df4b5-86e3-489b-91e7-892b2bc91ec1.xml#d83df4b5-86e3-489b-91e7-892b2bc91ec1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

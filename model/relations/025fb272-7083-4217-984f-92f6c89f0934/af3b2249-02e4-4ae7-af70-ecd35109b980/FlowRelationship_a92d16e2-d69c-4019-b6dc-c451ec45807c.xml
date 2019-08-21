@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary Data feed of Intra EU transactions"
+    id="a92d16e2-d69c-4019-b6dc-c451ec45807c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cfe322da-bdce-4b23-acbc-bdf95f7b701c.xml#cfe322da-bdce-4b23-acbc-bdf95f7b701c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_840e39e2-f6eb-4579-a55e-17bf52937640.xml#840e39e2-f6eb-4579-a55e-17bf52937640"/>
+</archimate:FlowRelationship>

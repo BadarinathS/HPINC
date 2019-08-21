@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOAP Call"
+    id="e1934d5c-070a-4fdb-8a1b-34e9e635f608">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e236bef1-7a81-4198-a9e4-276fda9a6c85.xml#e236bef1-7a81-4198-a9e4-276fda9a6c85"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_24860388-8d12-4bfa-9ecf-fa217df9c7fb.xml#24860388-8d12-4bfa-9ecf-fa217df9c7fb"/>
+</archimate:FlowRelationship>

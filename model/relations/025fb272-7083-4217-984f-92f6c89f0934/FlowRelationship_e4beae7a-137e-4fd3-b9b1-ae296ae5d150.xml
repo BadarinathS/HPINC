@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order with reference to LSP SKU"
+    id="e4beae7a-137e-4fd3-b9b1-ae296ae5d150">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_20f8f409-767f-4ae9-bed2-52d49ab2debf.xml#20f8f409-767f-4ae9-bed2-52d49ab2debf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ae83f4a1-31da-40d8-b0b4-6e2cb295600c.xml#ae83f4a1-31da-40d8-b0b4-6e2cb295600c"/>
+</archimate:FlowRelationship>

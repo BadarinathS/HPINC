@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Request Flow"
+    id="cb3ddaa3-2c04-43f8-9d1c-be47de111bea">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cfe322da-bdce-4b23-acbc-bdf95f7b701c.xml#cfe322da-bdce-4b23-acbc-bdf95f7b701c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_20f8f409-767f-4ae9-bed2-52d49ab2debf.xml#20f8f409-767f-4ae9-bed2-52d49ab2debf"/>
+</archimate:FlowRelationship>

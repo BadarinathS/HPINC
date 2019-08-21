@@ -1,0 +1,14 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="8ef2cc94-09e9-4ab3-a641-213c50c7ba4e">
+  <properties
+      key="Country"
+      value="INdia"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e1e6a521-ec29-4bfe-8faf-c656764b8d1b.xml#e1e6a521-ec29-4bfe-8faf-c656764b8d1b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_64ff5400-ec9b-4588-bacb-a12d05395c3c.xml#64ff5400-ec9b-4588-bacb-a12d05395c3c"/>
+</archimate:CompositionRelationship>

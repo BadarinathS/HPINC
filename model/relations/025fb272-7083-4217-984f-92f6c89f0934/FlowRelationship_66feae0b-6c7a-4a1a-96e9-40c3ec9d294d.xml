@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RFC"
+    id="66feae0b-6c7a-4a1a-96e9-40c3ec9d294d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f9535aeb-5d9d-4a4e-bdb0-d54d582187f5.xml#f9535aeb-5d9d-4a4e-bdb0-d54d582187f5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e096254f-ac5b-42b5-b90f-5ba97f5e01ae.xml#e096254f-ac5b-42b5-b90f-5ba97f5e01ae"/>
+</archimate:FlowRelationship>

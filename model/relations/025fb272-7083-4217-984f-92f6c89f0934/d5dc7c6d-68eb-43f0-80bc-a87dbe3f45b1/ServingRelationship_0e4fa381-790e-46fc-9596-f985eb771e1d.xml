@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="People"
+    id="0e4fa381-790e-46fc-9596-f985eb771e1d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_e88b1ed0-d977-44cf-808c-ea8b9853bfeb.xml#e88b1ed0-d977-44cf-808c-ea8b9853bfeb"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cc777939-7759-4ac7-b535-eb18cc511959.xml#cc777939-7759-4ac7-b535-eb18cc511959"/>
+</archimate:ServingRelationship>

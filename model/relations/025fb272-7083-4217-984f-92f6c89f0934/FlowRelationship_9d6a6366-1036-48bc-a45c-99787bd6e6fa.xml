@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Status"
+    id="9d6a6366-1036-48bc-a45c-99787bd6e6fa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ae83f4a1-31da-40d8-b0b4-6e2cb295600c.xml#ae83f4a1-31da-40d8-b0b4-6e2cb295600c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c6db18d3-f62e-4939-8bc0-0b6b9d0034b4.xml#c6db18d3-f62e-4939-8bc0-0b6b9d0034b4"/>
+</archimate:FlowRelationship>

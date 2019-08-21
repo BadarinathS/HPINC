@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GR"
+    id="92fb8a2a-eda5-47e0-899b-209284fa89f4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a8de0556-c04d-43fe-912b-f31cea0d58d1.xml#a8de0556-c04d-43fe-912b-f31cea0d58d1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0785198f-ad78-434a-b20e-c31f863ab035.xml#0785198f-ad78-434a-b20e-c31f863ab035"/>
+</archimate:FlowRelationship>

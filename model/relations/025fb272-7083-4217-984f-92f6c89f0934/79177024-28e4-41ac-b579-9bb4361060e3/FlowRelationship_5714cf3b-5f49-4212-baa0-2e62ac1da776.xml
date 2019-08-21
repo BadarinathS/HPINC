@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INvoice (idoc)"
+    id="5714cf3b-5f49-4212-baa0-2e62ac1da776">
+  <properties
+      key="Tranmission Method"
+      value="Idoc"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e0b77b18-1351-4afd-95a5-de3c10cd49bf.xml#e0b77b18-1351-4afd-95a5-de3c10cd49bf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5d76676e-8cbc-45a7-a85d-41334e649e98.xml#5d76676e-8cbc-45a7-a85d-41334e649e98"/>
+</archimate:FlowRelationship>

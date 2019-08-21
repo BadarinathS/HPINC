@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening Report (Email)"
+    id="a0d13cdc-6068-49ec-8d6c-c5d2e6ee3d65">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_310b75ab-ca28-4039-b587-5e6853ac600b.xml#310b75ab-ca28-4039-b587-5e6853ac600b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cfe322da-bdce-4b23-acbc-bdf95f7b701c.xml#cfe322da-bdce-4b23-acbc-bdf95f7b701c"/>
+</archimate:FlowRelationship>

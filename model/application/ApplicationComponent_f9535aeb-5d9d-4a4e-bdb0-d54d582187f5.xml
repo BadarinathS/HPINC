@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="201703-Reconciliation Manager"
+    id="f9535aeb-5d9d-4a4e-bdb0-d54d582187f5"
+    documentation="Worldwide application providing automated reconciliations of financial transactions at a system to system level. Provides daily monitoring and control on the accuracy of interface transmission process."/>

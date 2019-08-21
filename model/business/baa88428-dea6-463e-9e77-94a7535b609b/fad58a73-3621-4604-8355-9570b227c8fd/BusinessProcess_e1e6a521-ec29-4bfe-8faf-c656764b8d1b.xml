@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04.0-Deliver Physical Products"
+    id="e1e6a521-ec29-4bfe-8faf-c656764b8d1b">
+  <properties
+      key="Country"/>
+  <properties
+      key="Country"
+      value="China"/>
+  <properties
+      key="Country"
+      value="INdia"/>
+</archimate:BusinessProcess>

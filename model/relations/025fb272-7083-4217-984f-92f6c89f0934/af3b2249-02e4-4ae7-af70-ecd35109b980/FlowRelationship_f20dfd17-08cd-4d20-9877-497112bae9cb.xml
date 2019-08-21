@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Shipment Data"
+    id="f20dfd17-08cd-4d20-9877-497112bae9cb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cfe322da-bdce-4b23-acbc-bdf95f7b701c.xml#cfe322da-bdce-4b23-acbc-bdf95f7b701c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_60c02af2-1d91-4a03-a39e-8fec8e833c3e.xml#60c02af2-1d91-4a03-a39e-8fec8e833c3e"/>
+</archimate:FlowRelationship>

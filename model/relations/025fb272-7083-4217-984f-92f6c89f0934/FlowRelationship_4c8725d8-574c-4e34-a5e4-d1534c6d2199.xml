@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU VAT validation"
+    id="4c8725d8-574c-4e34-a5e4-d1534c6d2199">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_76099a57-b5f4-4aba-a30c-fb3e48ffc1aa.xml#76099a57-b5f4-4aba-a30c-fb3e48ffc1aa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_24860388-8d12-4bfa-9ecf-fa217df9c7fb.xml#24860388-8d12-4bfa-9ecf-fa217df9c7fb"/>
+</archimate:FlowRelationship>

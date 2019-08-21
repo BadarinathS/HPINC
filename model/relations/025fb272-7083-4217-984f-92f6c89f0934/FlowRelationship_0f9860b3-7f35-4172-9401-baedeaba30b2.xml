@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orders including tax"
+    id="0f9860b3-7f35-4172-9401-baedeaba30b2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e236bef1-7a81-4198-a9e4-276fda9a6c85.xml#e236bef1-7a81-4198-a9e4-276fda9a6c85"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_20f8f409-767f-4ae9-bed2-52d49ab2debf.xml#20f8f409-767f-4ae9-bed2-52d49ab2debf"/>
+</archimate:FlowRelationship>

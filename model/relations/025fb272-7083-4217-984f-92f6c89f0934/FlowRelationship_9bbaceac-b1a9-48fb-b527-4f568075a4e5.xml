@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR40"
+    id="9bbaceac-b1a9-48fb-b527-4f568075a4e5">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_99b020f9-e549-4f0b-8cb6-e1d770dfc97c.xml#99b020f9-e549-4f0b-8cb6-e1d770dfc97c"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_9b7be1b4-e060-40a0-ae8d-ccb069eb63a0.xml#9b7be1b4-e060-40a0-ae8d-ccb069eb63a0"/>
+</archimate:FlowRelationship>

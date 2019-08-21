@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I2 Order"
+    id="bb6ec4d6-9eb6-48de-a12e-05064af3e15f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ab95c7f2-0338-4fa0-b071-36dff8a40032.xml#ab95c7f2-0338-4fa0-b071-36dff8a40032"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eea3b467-2389-4b70-9877-50fefc6e6a6d.xml#eea3b467-2389-4b70-9877-50fefc6e6a6d"/>
+</archimate:FlowRelationship>

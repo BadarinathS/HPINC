@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check whats this addtional flow?"
+    id="850f3d2a-b1e8-4fef-bfc9-137fc4246dd6">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3091903a-7e5d-4a24-8a67-e1c27754a2be.xml#3091903a-7e5d-4a24-8a67-e1c27754a2be"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c6c90c2e-627a-4615-9be6-05d93074c5c1.xml#c6c90c2e-627a-4615-9be6-05d93074c5c1"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTS Code"
+    id="bd9c9e6b-da34-488d-b7a3-38c3399b7f4f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f334d774-ee96-482b-97d8-ce0afe9987a7.xml#f334d774-ee96-482b-97d8-ce0afe9987a7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_56124d69-81d2-4af5-8fba-610fcdb1d0f8.xml#56124d69-81d2-4af5-8fba-610fcdb1d0f8"/>
+</archimate:FlowRelationship>

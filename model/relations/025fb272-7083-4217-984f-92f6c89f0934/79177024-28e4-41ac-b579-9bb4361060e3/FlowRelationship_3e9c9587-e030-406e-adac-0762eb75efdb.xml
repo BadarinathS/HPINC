@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Download PDF"
+    id="3e9c9587-e030-406e-adac-0762eb75efdb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_70185e1b-fa67-4fba-94cb-c83505034cca.xml#70185e1b-fa67-4fba-94cb-c83505034cca"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_c3676874-29ac-4dd1-bc52-23ab6c61dbee.xml#c3676874-29ac-4dd1-bc52-23ab6c61dbee"/>
+</archimate:FlowRelationship>

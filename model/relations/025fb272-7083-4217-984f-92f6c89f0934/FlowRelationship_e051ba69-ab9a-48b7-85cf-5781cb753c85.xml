@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement and  Accounting vendor"
+    id="e051ba69-ab9a-48b7-85cf-5781cb753c85">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fd2ef28f-70e4-4dcf-8ecc-6bd39d4cf16a.xml#fd2ef28f-70e4-4dcf-8ecc-6bd39d4cf16a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_41049abc-9839-4638-bb16-8f22217a01f7.xml#41049abc-9839-4638-bb16-8f22217a01f7"/>
+</archimate:FlowRelationship>

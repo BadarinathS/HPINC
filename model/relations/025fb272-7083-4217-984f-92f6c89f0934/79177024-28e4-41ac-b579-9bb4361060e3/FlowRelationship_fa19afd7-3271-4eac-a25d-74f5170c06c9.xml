@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upload to ERMS"
+    id="fa19afd7-3271-4eac-a25d-74f5170c06c9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_c3676874-29ac-4dd1-bc52-23ab6c61dbee.xml#c3676874-29ac-4dd1-bc52-23ab6c61dbee"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f1ff0891-6eb6-4c4b-a909-3fc914f1a536.xml#f1ff0891-6eb6-4c4b-a909-3fc914f1a536"/>
+</archimate:FlowRelationship>

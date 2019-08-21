@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ship Notification"
+    id="9cd3378e-8e49-4f1c-96f2-ed9489375548">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3091903a-7e5d-4a24-8a67-e1c27754a2be.xml#3091903a-7e5d-4a24-8a67-e1c27754a2be"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f952da9a-5db5-4437-a861-89d6bdbf26a8.xml#f952da9a-5db5-4437-a861-89d6bdbf26a8"/>
+</archimate:FlowRelationship>

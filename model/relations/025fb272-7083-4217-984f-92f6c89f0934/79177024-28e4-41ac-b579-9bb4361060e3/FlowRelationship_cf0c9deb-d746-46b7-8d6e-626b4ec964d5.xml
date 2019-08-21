@@ -1,0 +1,17 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice (Idoc)"
+    id="cf0c9deb-d746-46b7-8d6e-626b4ec964d5">
+  <properties
+      key="Country"
+      value="Chile"/>
+  <properties
+      key="Region"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_00ffbc76-2ecf-40e0-a1ca-91da05ccbeb8.xml#00ffbc76-2ecf-40e0-a1ca-91da05ccbeb8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5d76676e-8cbc-45a7-a85d-41334e649e98.xml#5d76676e-8cbc-45a7-a85d-41334e649e98"/>
+</archimate:FlowRelationship>

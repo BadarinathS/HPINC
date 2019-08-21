@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="coupon details"
+    id="253417ec-f8ca-416c-986a-c272618cdabc">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1bcea062-9b5a-4131-80aa-140568fd322f.xml#1bcea062-9b5a-4131-80aa-140568fd322f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2ee52200-230e-4f76-95c3-8a2a81900a69.xml#2ee52200-230e-4f76-95c3-8a2a81900a69"/>
+</archimate:FlowRelationship>

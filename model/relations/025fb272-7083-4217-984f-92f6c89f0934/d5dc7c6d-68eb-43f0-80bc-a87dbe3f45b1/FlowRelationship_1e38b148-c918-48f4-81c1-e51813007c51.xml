@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSP SKU as per HP SKU"
+    id="1e38b148-c918-48f4-81c1-e51813007c51">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_aec04a4e-1c96-4cc9-940c-2e777940ee13.xml#aec04a4e-1c96-4cc9-940c-2e777940ee13"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_20f8f409-767f-4ae9-bed2-52d49ab2debf.xml#20f8f409-767f-4ae9-bed2-52d49ab2debf"/>
+</archimate:FlowRelationship>

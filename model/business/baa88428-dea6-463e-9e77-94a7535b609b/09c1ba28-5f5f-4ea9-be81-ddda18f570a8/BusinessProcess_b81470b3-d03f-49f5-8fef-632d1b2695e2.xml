@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="03.5.4.1-Accept and validate sales orders"
+    id="b81470b3-d03f-49f5-8fef-632d1b2695e2">
+  <properties
+      key="Country"
+      value="India"/>
+</archimate:BusinessProcess>

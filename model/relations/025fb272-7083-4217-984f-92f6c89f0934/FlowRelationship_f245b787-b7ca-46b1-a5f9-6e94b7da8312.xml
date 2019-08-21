@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TT58"
+    id="f245b787-b7ca-46b1-a5f9-6e94b7da8312">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6195f644-78ae-48af-8e1f-f94e1eeb9e47.xml#6195f644-78ae-48af-8e1f-f94e1eeb9e47"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ab95c7f2-0338-4fa0-b071-36dff8a40032.xml#ab95c7f2-0338-4fa0-b071-36dff8a40032"/>
+</archimate:FlowRelationship>
